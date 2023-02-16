@@ -1,0 +1,490 @@
+[
+    {
+        "id": "AA01",
+        "name": "Chester City"
+    },
+    {
+        "id": "AA02",
+        "name": "Boughton"
+    },
+    {
+        "id": "AA03",
+        "name": "Garden Quarter"
+    },
+    {
+        "id": "AB01AD08",
+        "name": "Dodleston, Huntington and Farndon"
+    },
+    {
+        "id": "AB02",
+        "name": "Great Boughton"
+    },
+    {
+        "id": "AB03",
+        "name": "Handbridge Park"
+    },
+    {
+        "id": "AB04",
+        "name": "Hoole"
+    },
+    {
+        "id": "AB05",
+        "name": "Newton"
+    },
+    {
+        "id": "AB06",
+        "name": "Lache"
+    },
+    {
+        "id": "AC01",
+        "name": "Blacon"
+    },
+    {
+        "id": "AC02AD01",
+        "name": "Saughall, Mollington and Elton"
+    },
+    {
+        "id": "AC03",
+        "name": "Upton"
+    },
+    {
+        "id": "AD02",
+        "name": "Chester Villages"
+    },
+    {
+        "id": "AD03",
+        "name": "Frodsham"
+    },
+    {
+        "id": "AD04",
+        "name": "Helsby"
+    },
+    {
+        "id": "AD05AD06",
+        "name": "Kingsley and Gowy"
+    },
+    {
+        "id": "AD07",
+        "name": "Tarvin and Kelsall"
+    },
+    {
+        "id": "AD09AD10",
+        "name": "Tattenhall and Malpas"
+    },
+    {
+        "id": "BA01",
+        "name": "Crewe South"
+    },
+    {
+        "id": "BA02BA03",
+        "name": "Shavington, Willaston and Rope"
+    },
+    {
+        "id": "BA04",
+        "name": "Wistaston"
+    },
+    {
+        "id": "BB01",
+        "name": "Crewe Central"
+    },
+    {
+        "id": "BB02",
+        "name": "Crewe St Barnabas"
+    },
+    {
+        "id": "BB03",
+        "name": "Crewe West"
+    },
+    {
+        "id": "BC01",
+        "name": "Crewe East"
+    },
+    {
+        "id": "BC02",
+        "name": "Crewe North"
+    },
+    {
+        "id": "BC03",
+        "name": "Leighton"
+    },
+    {
+        "id": "BC04",
+        "name": "Haslington"
+    },
+    {
+        "id": "BC05",
+        "name": "Alsager"
+    },
+    {
+        "id": "BD01BD06",
+        "name": "Audlem and Wybunbury"
+    },
+    {
+        "id": "BD02BD03",
+        "name": "Bunbury and Wrenbury"
+    },
+    {
+        "id": "BD04",
+        "name": "Nantwich North and West"
+    },
+    {
+        "id": "BD05",
+        "name": "Nantwich South and Stapeley"
+    },
+    {
+        "id": "BE01",
+        "name": "Odd Rode"
+    },
+    {
+        "id": "BE02BE05",
+        "name": "Sandbach Elworth and Brereton Rural"
+    },
+    {
+        "id": "BE03",
+        "name": "Dane Valley"
+    },
+    {
+        "id": "BE04",
+        "name": "Middlewich"
+    },
+    {
+        "id": "BE06BE07",
+        "name": "Sandbach Ettiley Heath, Wheelock, Heath and East"
+    },
+    {
+        "id": "BE08",
+        "name": "Sandbach Town"
+    },
+    {
+        "id": "CA01",
+        "name": "Congleton East"
+    },
+    {
+        "id": "CA02CC01",
+        "name": "Gawsworth and Chelford"
+    },
+    {
+        "id": "CA03",
+        "name": "Congleton West and Town Centre"
+    },
+    {
+        "id": "CB01",
+        "name": "Macclesfield Hurdsfield"
+    },
+    {
+        "id": "CB02",
+        "name": "Macclesfield Tytherington"
+    },
+    {
+        "id": "CB03",
+        "name": "Bollington"
+    },
+    {
+        "id": "CB04CD04",
+        "name": "Prestbury and Alderley Edge"
+    },
+    {
+        "id": "CB05",
+        "name": "Disley"
+    },
+    {
+        "id": "CB06",
+        "name": "Poynton East and Pott Shrigley"
+    },
+    {
+        "id": "CB07",
+        "name": "Poynton West and Adlington"
+    },
+    {
+        "id": "CC02CC04",
+        "name": "High Legh and Mobberley"
+    },
+    {
+        "id": "CC03",
+        "name": "Knutsford"
+    },
+    {
+        "id": "CD01",
+        "name": "Handforth"
+    },
+    {
+        "id": "CD02CD05",
+        "name": "Wilmslow Dean Row and Lacey Green"
+    },
+    {
+        "id": "CD03",
+        "name": "Wilmslow East"
+    },
+    {
+        "id": "CD06",
+        "name": "Wilmslow West and Chorley"
+    },
+    {
+        "id": "CE01",
+        "name": "Macclesfield Central"
+    },
+    {
+        "id": "CE02CE03",
+        "name": "Macclesfield East and Sutton"
+    },
+    {
+        "id": "CE04",
+        "name": "Macclesfield South"
+    },
+    {
+        "id": "CE05",
+        "name": "Broken Cross and Upton"
+    },
+    {
+        "id": "CE06",
+        "name": "Macclesfield West and Ivy"
+    },
+    {
+        "id": "DA01",
+        "name": "Warrington Town Centre"
+    },
+    {
+        "id": "DB01",
+        "name": "Fairfield and Howley"
+    },
+    {
+        "id": "DB02",
+        "name": "Latchford East"
+    },
+    {
+        "id": "DB03",
+        "name": "Latchford West"
+    },
+    {
+        "id": "DB04",
+        "name": "Bewsey and Whitecross"
+    },
+    {
+        "id": "DC01",
+        "name": "Birchwood"
+    },
+    {
+        "id": "DC02",
+        "name": "Culcheth, Glazebury and Croft"
+    },
+    {
+        "id": "DC03",
+        "name": "Poulton South"
+    },
+    {
+        "id": "DC04",
+        "name": "Rixton and Woolston"
+    },
+    {
+        "id": "DD01",
+        "name": "Burtonwood and Winwick"
+    },
+    {
+        "id": "DD02",
+        "name": "Great Sankey North"
+    },
+    {
+        "id": "DD03",
+        "name": "Great Sankey South"
+    },
+    {
+        "id": "DD04",
+        "name": "Penketh and Cuerdley"
+    },
+    {
+        "id": "DD05",
+        "name": "Westbrook"
+    },
+    {
+        "id": "DD06",
+        "name": "Whittle Hall"
+    },
+    {
+        "id": "DE01",
+        "name": "Appleton - Warrington"
+    },
+    {
+        "id": "DE02",
+        "name": "Hatton, Stretton and Walton"
+    },
+    {
+        "id": "DE03",
+        "name": "Grappenhall and Thelwall"
+    },
+    {
+        "id": "DE04",
+        "name": "Stockton Heath"
+    },
+    {
+        "id": "DE05",
+        "name": "Lymm"
+    },
+    {
+        "id": "DF01",
+        "name": "Orford"
+    },
+    {
+        "id": "DF02",
+        "name": "Poplars and Hulme"
+    },
+    {
+        "id": "DF03",
+        "name": "Poulton North"
+    },
+    {
+        "id": "GA01",
+        "name": "Appleton - Widnes"
+    },
+    {
+        "id": "GA02",
+        "name": "Kingsway"
+    },
+    {
+        "id": "GA03",
+        "name": "Riverside"
+    },
+    {
+        "id": "GB01",
+        "name": "Broadheath"
+    },
+    {
+        "id": "GB02",
+        "name": "Hough Green"
+    },
+    {
+        "id": "GB03GB04",
+        "name": "Ditton and Hale"
+    },
+    {
+        "id": "GB05",
+        "name": "Farnworth"
+    },
+    {
+        "id": "GB06",
+        "name": "Birchfield"
+    },
+    {
+        "id": "GB07",
+        "name": "Halton View"
+    },
+    {
+        "id": "IA01",
+        "name": "Ellesmere Port Town"
+    },
+    {
+        "id": "IA02",
+        "name": "Whitby"
+    },
+    {
+        "id": "IA03IB04",
+        "name": "Strawberry, Ledsham and Manor"
+    },
+    {
+        "id": "IA04",
+        "name": "Rossmore"
+    },
+    {
+        "id": "IB01",
+        "name": "Little Neston and Burton"
+    },
+    {
+        "id": "IB02IB03",
+        "name": "Neston and Parkgate"
+    },
+    {
+        "id": "IB05IB06",
+        "name": "Willaston, Thornton and Netherpool"
+    },
+    {
+        "id": "IB07",
+        "name": "St Paul's"
+    },
+    {
+        "id": "IB08",
+        "name": "Sutton"
+    },
+    {
+        "id": "IB09",
+        "name": "Grange - Ellesmere Port"
+    },
+    {
+        "id": "KA01",
+        "name": "Grange - Runcorn"
+    },
+    {
+        "id": "KA02",
+        "name": "Halton Brook"
+    },
+    {
+        "id": "KA03KB05",
+        "name": "Heath and Beechwood"
+    },
+    {
+        "id": "KA04",
+        "name": "Mersey"
+    },
+    {
+        "id": "KB01KB02",
+        "name": "Daresbury and Windmill Hill"
+    },
+    {
+        "id": "KB03",
+        "name": "Halton Castle"
+    },
+    {
+        "id": "KB04",
+        "name": "Halton Lea"
+    },
+    {
+        "id": "KB06",
+        "name": "Norton South"
+    },
+    {
+        "id": "KB07",
+        "name": "Norton North"
+    },
+    {
+        "id": "VA01",
+        "name": "Marbury"
+    },
+    {
+        "id": "VA02",
+        "name": "Winnington and Castle"
+    },
+    {
+        "id": "VA03",
+        "name": "Weaver and Cuddington"
+    },
+    {
+        "id": "VB01",
+        "name": "Winsford Over and Verdin"
+    },
+    {
+        "id": "VB02",
+        "name": "Winsford Wharton"
+    },
+    {
+        "id": "VB03",
+        "name": "Winsford Swanlow and Dene"
+    },
+    {
+        "id": "VB04",
+        "name": "Tarporley"
+    },
+    {
+        "id": "VC01",
+        "name": "Witton and Rudheath"
+    },
+    {
+        "id": "VC02",
+        "name": "Davenham and Moulton"
+    },
+    {
+        "id": "VC03",
+        "name": "Shakerley"
+    },
+    {
+        "id": "VC04",
+        "name": "Hartford and Greenbank"
+    }
+]

@@ -1,0 +1,494 @@
+[
+    {
+        "id": "AE016",
+        "name": "Frome Town"
+    },
+    {
+        "id": "AE017",
+        "name": "Frome Rural North"
+    },
+    {
+        "id": "AE018",
+        "name": "Frome Rural South"
+    },
+    {
+        "id": "AE019",
+        "name": "Shepton Mallet Town"
+    },
+    {
+        "id": "AE020",
+        "name": "Shepton Mallet Rural"
+    },
+    {
+        "id": "AE021",
+        "name": "Wells City"
+    },
+    {
+        "id": "AE022",
+        "name": "Wells Rural"
+    },
+    {
+        "id": "AE023",
+        "name": "Glastonbury Town"
+    },
+    {
+        "id": "AE024",
+        "name": "Street"
+    },
+    {
+        "id": "AE025",
+        "name": "Somerton and Langport"
+    },
+    {
+        "id": "AE026",
+        "name": "South Petherton"
+    },
+    {
+        "id": "AE027",
+        "name": "Martock and the Hamdons"
+    },
+    {
+        "id": "AE028",
+        "name": "Wincanton Town"
+    },
+    {
+        "id": "AE029",
+        "name": "Wincanton Rural East"
+    },
+    {
+        "id": "AE030",
+        "name": "Wincanton Rural West"
+    },
+    {
+        "id": "AE031",
+        "name": "Chard Town"
+    },
+    {
+        "id": "AE032",
+        "name": "Chard Rural West"
+    },
+    {
+        "id": "AE033",
+        "name": "Ilminster and Windwhistle"
+    },
+    {
+        "id": "AE034",
+        "name": "Crewkerne Town"
+    },
+    {
+        "id": "AE035",
+        "name": "Crewkerne Rural"
+    },
+    {
+        "id": "AE036",
+        "name": "Yeovil Rural"
+    },
+    {
+        "id": "AE037",
+        "name": "Yeovil Town"
+    },
+    {
+        "id": "AN001",
+        "name": "Portishead"
+    },
+    {
+        "id": "AN002",
+        "name": "Clevedon and Villages"
+    },
+    {
+        "id": "AN003",
+        "name": "Yatton"
+    },
+    {
+        "id": "AN004",
+        "name": "Nailsea"
+    },
+    {
+        "id": "AN005",
+        "name": "Redwood"
+    },
+    {
+        "id": "AN006",
+        "name": "Backwell and Wrington"
+    },
+    {
+        "id": "AN007",
+        "name": "Yeo Vale"
+    },
+    {
+        "id": "AN008",
+        "name": "Bristol Airport"
+    },
+    {
+        "id": "AN009",
+        "name": "Worle and North Weston"
+    },
+    {
+        "id": "AN010",
+        "name": "Weston Villages"
+    },
+    {
+        "id": "AN011",
+        "name": "Bournville"
+    },
+    {
+        "id": "AN012",
+        "name": "Ashcombe"
+    },
+    {
+        "id": "AN013",
+        "name": "Weston Central"
+    },
+    {
+        "id": "AN014",
+        "name": "Uphill"
+    },
+    {
+        "id": "AN015",
+        "name": "Weston Town Centre"
+    },
+    {
+        "id": "AW038",
+        "name": "Sedgemoor North West"
+    },
+    {
+        "id": "AW039",
+        "name": "Sedgemoor North East"
+    },
+    {
+        "id": "AW040",
+        "name": "Sedgemoor South West"
+    },
+    {
+        "id": "AW041",
+        "name": "Burnham and Highbridge"
+    },
+    {
+        "id": "AW042",
+        "name": "Bridgwater Town Centre"
+    },
+    {
+        "id": "AW043",
+        "name": "Bridgwater Town West"
+    },
+    {
+        "id": "AW044",
+        "name": "Taunton East"
+    },
+    {
+        "id": "AW045",
+        "name": "Holway and Killams"
+    },
+    {
+        "id": "AW046",
+        "name": "Taunton North"
+    },
+    {
+        "id": "AW047",
+        "name": "Taunton West"
+    },
+    {
+        "id": "AW048",
+        "name": "Taunton Central"
+    },
+    {
+        "id": "AW049",
+        "name": "Halcon (One Team)"
+    },
+    {
+        "id": "AW050",
+        "name": "Exmoor"
+    },
+    {
+        "id": "AW051",
+        "name": "Minehead"
+    },
+    {
+        "id": "AW052",
+        "name": "Williton and Watchet"
+    },
+    {
+        "id": "AW053",
+        "name": "Wellington Centre and South"
+    },
+    {
+        "id": "AW054",
+        "name": "Wellington North"
+    },
+    {
+        "id": "AW055",
+        "name": "Bridgwater Town East"
+    },
+    {
+        "id": "AW056",
+        "name": "Sedgemoor South East"
+    },
+    {
+        "id": "BE110",
+        "name": "St Pauls"
+    },
+    {
+        "id": "BE111",
+        "name": "Montpelier and St Werburghs"
+    },
+    {
+        "id": "BE161",
+        "name": "Frome Vale"
+    },
+    {
+        "id": "BE162",
+        "name": "Eastville"
+    },
+    {
+        "id": "BE163",
+        "name": "Hillfields"
+    },
+    {
+        "id": "BE164",
+        "name": "St George Central"
+    },
+    {
+        "id": "BE165",
+        "name": "St George Troopers Hill"
+    },
+    {
+        "id": "BE166",
+        "name": "St George West"
+    },
+    {
+        "id": "BE182",
+        "name": "The Dings and St Philip&rsquo;s Marsh"
+    },
+    {
+        "id": "BE183",
+        "name": "Barton Hill"
+    },
+    {
+        "id": "BE185",
+        "name": "Easton and Redfield"
+    },
+    {
+        "id": "BE186",
+        "name": "Trinity"
+    },
+    {
+        "id": "BN120",
+        "name": "Avonmouth and Shirehampton"
+    },
+    {
+        "id": "BN121",
+        "name": "Kingsweston"
+    },
+    {
+        "id": "BN123",
+        "name": "Henbury and Brentry"
+    },
+    {
+        "id": "BN151",
+        "name": "Lockleaze and Eastgate"
+    },
+    {
+        "id": "BN152",
+        "name": "Henleaze and Westbury-on-Trym"
+    },
+    {
+        "id": "BN153",
+        "name": "Southmead"
+    },
+    {
+        "id": "BN154",
+        "name": "Horfield"
+    },
+    {
+        "id": "BN170",
+        "name": "Stoke Bishop"
+    },
+    {
+        "id": "BN173",
+        "name": "Cotham"
+    },
+    {
+        "id": "BN174",
+        "name": "Redland"
+    },
+    {
+        "id": "BN175",
+        "name": "Bishopston"
+    },
+    {
+        "id": "BN190",
+        "name": "Stokes Croft and St Michael&rsquo;s"
+    },
+    {
+        "id": "BN191",
+        "name": "Old City Docks"
+    },
+    {
+        "id": "BN192",
+        "name": "Broadmead"
+    },
+    {
+        "id": "BN193",
+        "name": "Redcliffe and Temple"
+    },
+    {
+        "id": "BN194",
+        "name": "Harbourside and Hotwells"
+    },
+    {
+        "id": "BN195",
+        "name": "Clifton"
+    },
+    {
+        "id": "BN196",
+        "name": "Clifton Down"
+    },
+    {
+        "id": "BS104",
+        "name": "Bedminster"
+    },
+    {
+        "id": "BS107",
+        "name": "Bishopsworth"
+    },
+    {
+        "id": "BS108",
+        "name": "Hartcliffe and Withywood"
+    },
+    {
+        "id": "BS132",
+        "name": "Hengrove and Whitchurch"
+    },
+    {
+        "id": "BS133",
+        "name": "Stockwood"
+    },
+    {
+        "id": "BS134",
+        "name": "Brislington West"
+    },
+    {
+        "id": "BS135",
+        "name": "Brislington East"
+    },
+    {
+        "id": "BS140",
+        "name": "Knowle"
+    },
+    {
+        "id": "BS141",
+        "name": "Filwood"
+    },
+    {
+        "id": "BS142",
+        "name": "Southville"
+    },
+    {
+        "id": "BS143",
+        "name": "Windmill"
+    },
+    {
+        "id": "CN201",
+        "name": "Downend, Frenchay and Stoke Park"
+    },
+    {
+        "id": "CN202",
+        "name": "Staple Hill and New Cheltenham"
+    },
+    {
+        "id": "CN203",
+        "name": "Kingswood and Woodstock"
+    },
+    {
+        "id": "CN204",
+        "name": "Hanham and Longwell Green"
+    },
+    {
+        "id": "CN205",
+        "name": "Bitton and Parkwall"
+    },
+    {
+        "id": "CN206",
+        "name": "Boyd Valley, Emersons and Lyde Green"
+    },
+    {
+        "id": "CN207",
+        "name": "Yate and Dodington"
+    },
+    {
+        "id": "CN208",
+        "name": "Chipping Sodbury"
+    },
+    {
+        "id": "CN209",
+        "name": "Frampton and Charfield"
+    },
+    {
+        "id": "CN210",
+        "name": "Bradley Stoke"
+    },
+    {
+        "id": "CN211",
+        "name": "Thornbury"
+    },
+    {
+        "id": "CN212",
+        "name": "Severn Vale and Pilning"
+    },
+    {
+        "id": "CN213",
+        "name": "Filton"
+    },
+    {
+        "id": "CN214",
+        "name": "Stoke Gifford"
+    },
+    {
+        "id": "CN215",
+        "name": "Patchway and Cribbs Causeway"
+    },
+    {
+        "id": "CN216",
+        "name": "Winterbourne"
+    },
+    {
+        "id": "CN217",
+        "name": "University of West of England"
+    },
+    {
+        "id": "CS218",
+        "name": "Bath City Centre"
+    },
+    {
+        "id": "CS219",
+        "name": "Bath City Outer"
+    },
+    {
+        "id": "CS220",
+        "name": "Bath City South"
+    },
+    {
+        "id": "CS221",
+        "name": "Bath City West"
+    },
+    {
+        "id": "CS222",
+        "name": "Keynsham"
+    },
+    {
+        "id": "CS223",
+        "name": "Pensford and Chew Valley"
+    },
+    {
+        "id": "CS224",
+        "name": "Somer Valley"
+    },
+    {
+        "id": "CS225",
+        "name": "Peasedown and Paulton"
+    },
+    {
+        "id": "CS226",
+        "name": "North Mendip"
+    }
+]
